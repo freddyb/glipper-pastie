@@ -1,7 +1,11 @@
 This plugin is still in early development.
-Although basic functionality is assured, we still have lots of stuff from the old nopaste-plugin in our code.
-So, conflicts might occur.
+Although basic functionality is assured, we still have lots of stuff from the old
+nopaste-plugin in our code. So, conflicts might occur.
+
+Installation: 
+Just copy the files into your plugins directory, e.g. /usr/share/glipper/plugins/
 
 
 
-P.S. GNU Lesser General Public v2 or later
+Published under the GNU Lesser General Public License v2 (or later, if you wish)
+GNOME Projects may republish under any other license if required.
